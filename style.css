@@ -4,12 +4,15 @@ li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-p {
+/*p {
     background-color: bisque;
-}
+}*/
 
 .fancy {
     font-style: italic;
+    font-size: x-large;
+    background-color: black;
+    color: aliceblue;
 }
 
 img {
