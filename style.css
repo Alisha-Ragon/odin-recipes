@@ -8,7 +8,7 @@ p {
     background-color: bisque;
 }
 
-p .fancy {
+.fancy {
     font-style: italic;
 }
 
