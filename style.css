@@ -8,7 +8,7 @@ li {
     background-color: bisque;
 }*/
 
-.fancy {
+body .fancy {
     font-style: italic;
     font-size: x-large;
     background-color: black;
